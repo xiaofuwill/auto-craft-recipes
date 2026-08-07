@@ -1,0 +1,4905 @@
+{
+  "exported_at": 1786108954005,
+  "alt_recipes": {},
+  "fluid_recipes": {},
+  "recipes": {
+    "create:acacia_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:acacia_planks",
+        "nil",
+        "minecraft:acacia_planks",
+        "create:tiled_glass",
+        "minecraft:acacia_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:acacia_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:acacia_window",
+        "create:acacia_window",
+        "create:acacia_window",
+        "create:acacia_window",
+        "create:acacia_window",
+        "create:acacia_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:bamboo_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:bamboo_planks",
+        "nil",
+        "minecraft:bamboo_planks",
+        "create:tiled_glass",
+        "minecraft:bamboo_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:bamboo_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:bamboo_window",
+        "create:bamboo_window",
+        "create:bamboo_window",
+        "create:bamboo_window",
+        "create:bamboo_window",
+        "create:bamboo_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:birch_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:birch_planks",
+        "nil",
+        "minecraft:birch_planks",
+        "create:tiled_glass",
+        "minecraft:birch_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:birch_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:birch_window",
+        "create:birch_window",
+        "create:birch_window",
+        "create:birch_window",
+        "create:birch_window",
+        "create:birch_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cherry_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:cherry_planks",
+        "nil",
+        "minecraft:cherry_planks",
+        "create:tiled_glass",
+        "minecraft:cherry_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cherry_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:cherry_window",
+        "create:cherry_window",
+        "create:cherry_window",
+        "create:cherry_window",
+        "create:cherry_window",
+        "create:cherry_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:copper_shingle_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:copper_shingles",
+        "create:copper_shingles",
+        "create:copper_shingles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:copper_shingle_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:copper_shingles",
+        "nil",
+        "nil",
+        "create:copper_shingles",
+        "create:copper_shingles",
+        "nil",
+        "create:copper_shingles",
+        "create:copper_shingles",
+        "create:copper_shingles"
+      ],
+      "imported": true
+    },
+    "create:copper_tile_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:copper_tiles",
+        "create:copper_tiles",
+        "create:copper_tiles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:copper_tile_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:copper_tiles",
+        "nil",
+        "nil",
+        "create:copper_tiles",
+        "create:copper_tiles",
+        "nil",
+        "create:copper_tiles",
+        "create:copper_tiles",
+        "create:copper_tiles"
+      ],
+      "imported": true
+    },
+    "create:crimson_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:crimson_planks",
+        "nil",
+        "minecraft:crimson_planks",
+        "create:tiled_glass",
+        "minecraft:crimson_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:crimson_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:crimson_window",
+        "create:crimson_window",
+        "create:crimson_window",
+        "create:crimson_window",
+        "create:crimson_window",
+        "create:crimson_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_andesite_brick_slab",
+        "nil",
+        "create:cut_andesite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_andesite_bricks",
+        "nil",
+        "nil",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "nil",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "create:cut_andesite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_andesite_slab",
+        "nil",
+        "create:cut_andesite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_andesite",
+        "nil",
+        "nil",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "nil",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite"
+      ],
+      "imported": true
+    },
+    "create:cut_andesite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "create:cut_andesite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_asurine_brick_slab",
+        "nil",
+        "create:cut_asurine_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_asurine_bricks",
+        "nil",
+        "nil",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "nil",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_asurine_slab",
+        "nil",
+        "create:cut_asurine_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_asurine",
+        "nil",
+        "nil",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "nil",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine"
+      ],
+      "imported": true
+    },
+    "create:cut_asurine_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "create:cut_asurine",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_calcite_brick_slab",
+        "nil",
+        "create:cut_calcite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_calcite_bricks",
+        "nil",
+        "nil",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "nil",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_calcite_slab",
+        "nil",
+        "create:cut_calcite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_calcite",
+        "nil",
+        "nil",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "nil",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite"
+      ],
+      "imported": true
+    },
+    "create:cut_calcite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "create:cut_calcite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_crimsite_brick_slab",
+        "nil",
+        "create:cut_crimsite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_crimsite_bricks",
+        "nil",
+        "nil",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "nil",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "create:cut_crimsite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_crimsite_slab",
+        "nil",
+        "create:cut_crimsite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_crimsite",
+        "nil",
+        "nil",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "nil",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite"
+      ],
+      "imported": true
+    },
+    "create:cut_crimsite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "create:cut_crimsite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_deepslate_brick_slab",
+        "nil",
+        "create:cut_deepslate_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_deepslate_bricks",
+        "nil",
+        "nil",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "nil",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "create:cut_deepslate_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_deepslate_slab",
+        "nil",
+        "create:cut_deepslate_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_deepslate",
+        "nil",
+        "nil",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "nil",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate"
+      ],
+      "imported": true
+    },
+    "create:cut_deepslate_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "create:cut_deepslate",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_diorite_brick_slab",
+        "nil",
+        "create:cut_diorite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_diorite_bricks",
+        "nil",
+        "nil",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "nil",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "create:cut_diorite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_diorite_slab",
+        "nil",
+        "create:cut_diorite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_diorite",
+        "nil",
+        "nil",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "nil",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite"
+      ],
+      "imported": true
+    },
+    "create:cut_diorite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "create:cut_diorite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_dripstone_brick_slab",
+        "nil",
+        "create:cut_dripstone_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_dripstone_bricks",
+        "nil",
+        "nil",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "nil",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "create:cut_dripstone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_dripstone_slab",
+        "nil",
+        "create:cut_dripstone_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_dripstone",
+        "nil",
+        "nil",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "nil",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone"
+      ],
+      "imported": true
+    },
+    "create:cut_dripstone_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "create:cut_dripstone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_granite_brick_slab",
+        "nil",
+        "create:cut_granite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_granite_bricks",
+        "nil",
+        "nil",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "nil",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "create:cut_granite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_granite_slab",
+        "nil",
+        "create:cut_granite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_granite",
+        "nil",
+        "nil",
+        "create:cut_granite",
+        "create:cut_granite",
+        "nil",
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite"
+      ],
+      "imported": true
+    },
+    "create:cut_granite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite",
+        "create:cut_granite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_limestone_brick_slab",
+        "nil",
+        "create:cut_limestone_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_limestone_bricks",
+        "nil",
+        "nil",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "nil",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_limestone_slab",
+        "nil",
+        "create:cut_limestone_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_limestone",
+        "nil",
+        "nil",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "nil",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone"
+      ],
+      "imported": true
+    },
+    "create:cut_limestone_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "create:cut_limestone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_ochrum_brick_slab",
+        "nil",
+        "create:cut_ochrum_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_ochrum_bricks",
+        "nil",
+        "nil",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "nil",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "create:cut_ochrum_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_ochrum_slab",
+        "nil",
+        "create:cut_ochrum_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_ochrum",
+        "nil",
+        "nil",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "nil",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum"
+      ],
+      "imported": true
+    },
+    "create:cut_ochrum_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "create:cut_ochrum",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scorchia_brick_slab",
+        "nil",
+        "create:cut_scorchia_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_scorchia_bricks",
+        "nil",
+        "nil",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "nil",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scorchia_slab",
+        "nil",
+        "create:cut_scorchia_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_scorchia",
+        "nil",
+        "nil",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "nil",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia"
+      ],
+      "imported": true
+    },
+    "create:cut_scorchia_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scoria_brick_slab",
+        "nil",
+        "create:cut_scoria_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_scoria_bricks",
+        "nil",
+        "nil",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "nil",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "create:cut_scoria_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_scoria_slab",
+        "nil",
+        "create:cut_scoria_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_scoria",
+        "nil",
+        "nil",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "nil",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria"
+      ],
+      "imported": true
+    },
+    "create:cut_scoria_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "create:cut_scoria",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_tuff_brick_slab",
+        "nil",
+        "create:cut_tuff_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_tuff_bricks",
+        "nil",
+        "nil",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "nil",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "create:cut_tuff_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_tuff_slab",
+        "nil",
+        "create:cut_tuff_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_tuff",
+        "nil",
+        "nil",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "nil",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff"
+      ],
+      "imported": true
+    },
+    "create:cut_tuff_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "create:cut_tuff",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_veridium_brick_slab",
+        "nil",
+        "create:cut_veridium_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_veridium_bricks",
+        "nil",
+        "nil",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "nil",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "create:cut_veridium_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:cut_veridium_slab",
+        "nil",
+        "create:cut_veridium_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:cut_veridium",
+        "nil",
+        "nil",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "nil",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium"
+      ],
+      "imported": true
+    },
+    "create:cut_veridium_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "create:cut_veridium",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:dark_oak_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:dark_oak_planks",
+        "nil",
+        "minecraft:dark_oak_planks",
+        "create:tiled_glass",
+        "minecraft:dark_oak_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:dark_oak_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:dark_oak_window",
+        "create:dark_oak_window",
+        "create:dark_oak_window",
+        "create:dark_oak_window",
+        "create:dark_oak_window",
+        "create:dark_oak_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:exposed_copper_shingle_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:exposed_copper_shingles",
+        "create:exposed_copper_shingles",
+        "create:exposed_copper_shingles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:exposed_copper_shingle_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:exposed_copper_shingles",
+        "nil",
+        "nil",
+        "create:exposed_copper_shingles",
+        "create:exposed_copper_shingles",
+        "nil",
+        "create:exposed_copper_shingles",
+        "create:exposed_copper_shingles",
+        "create:exposed_copper_shingles"
+      ],
+      "imported": true
+    },
+    "create:exposed_copper_tile_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:exposed_copper_tiles",
+        "create:exposed_copper_tiles",
+        "create:exposed_copper_tiles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:exposed_copper_tile_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:exposed_copper_tiles",
+        "nil",
+        "nil",
+        "create:exposed_copper_tiles",
+        "create:exposed_copper_tiles",
+        "nil",
+        "create:exposed_copper_tiles",
+        "create:exposed_copper_tiles",
+        "create:exposed_copper_tiles"
+      ],
+      "imported": true
+    },
+    "create:framed_glass_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:framed_glass",
+        "create:framed_glass",
+        "create:framed_glass",
+        "create:framed_glass",
+        "create:framed_glass",
+        "create:framed_glass",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:horizontal_framed_glass_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:horizontal_framed_glass",
+        "create:horizontal_framed_glass",
+        "create:horizontal_framed_glass",
+        "create:horizontal_framed_glass",
+        "create:horizontal_framed_glass",
+        "create:horizontal_framed_glass",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:industrial_iron_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "create:industrial_iron_block",
+        "nil",
+        "create:industrial_iron_block",
+        "create:tiled_glass",
+        "create:industrial_iron_block",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:industrial_iron_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:industrial_iron_window",
+        "create:industrial_iron_window",
+        "create:industrial_iron_window",
+        "create:industrial_iron_window",
+        "create:industrial_iron_window",
+        "create:industrial_iron_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:jungle_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:jungle_planks",
+        "nil",
+        "minecraft:jungle_planks",
+        "create:tiled_glass",
+        "minecraft:jungle_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:jungle_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:jungle_window",
+        "create:jungle_window",
+        "create:jungle_window",
+        "create:jungle_window",
+        "create:jungle_window",
+        "create:jungle_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:mangrove_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:mangrove_planks",
+        "nil",
+        "minecraft:mangrove_planks",
+        "create:tiled_glass",
+        "minecraft:mangrove_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:mangrove_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:mangrove_window",
+        "create:mangrove_window",
+        "create:mangrove_window",
+        "create:mangrove_window",
+        "create:mangrove_window",
+        "create:mangrove_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:oak_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:oak_planks",
+        "nil",
+        "minecraft:oak_planks",
+        "create:tiled_glass",
+        "minecraft:oak_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:oak_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:oak_window",
+        "create:oak_window",
+        "create:oak_window",
+        "create:oak_window",
+        "create:oak_window",
+        "create:oak_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:ornate_iron_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:iron_nugget",
+        "nil",
+        "minecraft:iron_nugget",
+        "create:tiled_glass",
+        "minecraft:iron_nugget",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:ornate_iron_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:ornate_iron_window",
+        "create:ornate_iron_window",
+        "create:ornate_iron_window",
+        "create:ornate_iron_window",
+        "create:ornate_iron_window",
+        "create:ornate_iron_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:oxidized_copper_shingle_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:oxidized_copper_shingles",
+        "create:oxidized_copper_shingles",
+        "create:oxidized_copper_shingles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:oxidized_copper_shingle_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:oxidized_copper_shingles",
+        "nil",
+        "nil",
+        "create:oxidized_copper_shingles",
+        "create:oxidized_copper_shingles",
+        "nil",
+        "create:oxidized_copper_shingles",
+        "create:oxidized_copper_shingles",
+        "create:oxidized_copper_shingles"
+      ],
+      "imported": true
+    },
+    "create:oxidized_copper_tile_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:oxidized_copper_tiles",
+        "create:oxidized_copper_tiles",
+        "create:oxidized_copper_tiles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:oxidized_copper_tile_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:oxidized_copper_tiles",
+        "nil",
+        "nil",
+        "create:oxidized_copper_tiles",
+        "create:oxidized_copper_tiles",
+        "nil",
+        "create:oxidized_copper_tiles",
+        "create:oxidized_copper_tiles",
+        "create:oxidized_copper_tiles"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_andesite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_andesite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_andesite_slab",
+        "nil",
+        "create:polished_cut_andesite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_andesite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_andesite",
+        "nil",
+        "nil",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "nil",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_andesite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "create:polished_cut_andesite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_asurine_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_asurine": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_asurine_slab",
+        "nil",
+        "create:polished_cut_asurine_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_asurine_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_asurine",
+        "nil",
+        "nil",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "nil",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_asurine_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_calcite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_calcite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_calcite_slab",
+        "nil",
+        "create:polished_cut_calcite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_calcite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_calcite",
+        "nil",
+        "nil",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "nil",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_calcite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_crimsite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_crimsite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_crimsite_slab",
+        "nil",
+        "create:polished_cut_crimsite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_crimsite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_crimsite",
+        "nil",
+        "nil",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "nil",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_crimsite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "create:polished_cut_crimsite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_deepslate_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_deepslate": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_deepslate_slab",
+        "nil",
+        "create:polished_cut_deepslate_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_deepslate_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_deepslate",
+        "nil",
+        "nil",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "nil",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_deepslate_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "create:polished_cut_deepslate",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_diorite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_diorite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_diorite_slab",
+        "nil",
+        "create:polished_cut_diorite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_diorite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_diorite",
+        "nil",
+        "nil",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "nil",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_diorite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "create:polished_cut_diorite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_dripstone_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_dripstone": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_dripstone_slab",
+        "nil",
+        "create:polished_cut_dripstone_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_dripstone_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_dripstone",
+        "nil",
+        "nil",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "nil",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_dripstone_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "create:polished_cut_dripstone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_granite_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_granite": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_granite_slab",
+        "nil",
+        "create:polished_cut_granite_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_granite_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_granite",
+        "nil",
+        "nil",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "nil",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_granite_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "create:polished_cut_granite",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_limestone_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_limestone": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_limestone_slab",
+        "nil",
+        "create:polished_cut_limestone_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_limestone_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_limestone",
+        "nil",
+        "nil",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "nil",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_limestone_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_ochrum_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_ochrum": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_ochrum_slab",
+        "nil",
+        "create:polished_cut_ochrum_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_ochrum_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_ochrum",
+        "nil",
+        "nil",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "nil",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_ochrum_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "create:polished_cut_ochrum",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scorchia_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scorchia": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_scorchia_slab",
+        "nil",
+        "create:polished_cut_scorchia_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scorchia_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_scorchia",
+        "nil",
+        "nil",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "nil",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scorchia_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scoria_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scoria": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_scoria_slab",
+        "nil",
+        "create:polished_cut_scoria_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scoria_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_scoria",
+        "nil",
+        "nil",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "nil",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_scoria_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "create:polished_cut_scoria",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_tuff_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_tuff": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_tuff_slab",
+        "nil",
+        "create:polished_cut_tuff_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_tuff_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_tuff",
+        "nil",
+        "nil",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "nil",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_tuff_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "create:polished_cut_tuff",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_veridium_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_veridium": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:polished_cut_veridium_slab",
+        "nil",
+        "create:polished_cut_veridium_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_veridium_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:polished_cut_veridium",
+        "nil",
+        "nil",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "nil",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium"
+      ],
+      "imported": true
+    },
+    "create:polished_cut_veridium_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "create:polished_cut_veridium",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_andesite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_andesite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_andesite_brick_slab",
+        "nil",
+        "create:small_andesite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_andesite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_andesite_bricks",
+        "nil",
+        "nil",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "nil",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_andesite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "create:small_andesite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_asurine_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_asurine_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_asurine_brick_slab",
+        "nil",
+        "create:small_asurine_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_asurine_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_asurine_bricks",
+        "nil",
+        "nil",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "nil",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_asurine_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "create:small_asurine_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_calcite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_calcite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_calcite_brick_slab",
+        "nil",
+        "create:small_calcite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_calcite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_calcite_bricks",
+        "nil",
+        "nil",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "nil",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_calcite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "create:small_calcite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_crimsite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_crimsite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_crimsite_brick_slab",
+        "nil",
+        "create:small_crimsite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_crimsite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_crimsite_bricks",
+        "nil",
+        "nil",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "nil",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_crimsite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "create:small_crimsite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_deepslate_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_deepslate_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_deepslate_brick_slab",
+        "nil",
+        "create:small_deepslate_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_deepslate_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_deepslate_bricks",
+        "nil",
+        "nil",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "nil",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_deepslate_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "create:small_deepslate_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_diorite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_diorite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_diorite_brick_slab",
+        "nil",
+        "create:small_diorite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_diorite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_diorite_bricks",
+        "nil",
+        "nil",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "nil",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_diorite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "create:small_diorite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_dripstone_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_dripstone_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_dripstone_brick_slab",
+        "nil",
+        "create:small_dripstone_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_dripstone_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_dripstone_bricks",
+        "nil",
+        "nil",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "nil",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_dripstone_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "create:small_dripstone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_granite_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_granite_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_granite_brick_slab",
+        "nil",
+        "create:small_granite_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_granite_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_granite_bricks",
+        "nil",
+        "nil",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "nil",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_granite_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "create:small_granite_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_limestone_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_limestone_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_limestone_brick_slab",
+        "nil",
+        "create:small_limestone_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_limestone_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_limestone_bricks",
+        "nil",
+        "nil",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "nil",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_limestone_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "create:small_limestone_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_ochrum_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_ochrum_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_ochrum_brick_slab",
+        "nil",
+        "create:small_ochrum_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_ochrum_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_ochrum_bricks",
+        "nil",
+        "nil",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "nil",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_ochrum_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "create:small_ochrum_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scorchia_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scorchia_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_scorchia_brick_slab",
+        "nil",
+        "create:small_scorchia_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scorchia_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_scorchia_bricks",
+        "nil",
+        "nil",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "nil",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_scorchia_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scoria_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scoria_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_scoria_brick_slab",
+        "nil",
+        "create:small_scoria_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_scoria_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_scoria_bricks",
+        "nil",
+        "nil",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "nil",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_scoria_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "create:small_scoria_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_tuff_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_tuff_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_tuff_brick_slab",
+        "nil",
+        "create:small_tuff_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_tuff_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_tuff_bricks",
+        "nil",
+        "nil",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "nil",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_tuff_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "create:small_tuff_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_veridium_brick_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_veridium_bricks": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 1,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:small_veridium_brick_slab",
+        "nil",
+        "create:small_veridium_brick_slab",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:small_veridium_brick_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:small_veridium_bricks",
+        "nil",
+        "nil",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "nil",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks"
+      ],
+      "imported": true
+    },
+    "create:small_veridium_brick_wall": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "create:small_veridium_bricks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:spruce_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:spruce_planks",
+        "nil",
+        "minecraft:spruce_planks",
+        "create:tiled_glass",
+        "minecraft:spruce_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:spruce_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:spruce_window",
+        "create:spruce_window",
+        "create:spruce_window",
+        "create:spruce_window",
+        "create:spruce_window",
+        "create:spruce_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:tiled_glass_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:tiled_glass",
+        "create:tiled_glass",
+        "create:tiled_glass",
+        "create:tiled_glass",
+        "create:tiled_glass",
+        "create:tiled_glass",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:vertical_framed_glass_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:vertical_framed_glass",
+        "create:vertical_framed_glass",
+        "create:vertical_framed_glass",
+        "create:vertical_framed_glass",
+        "create:vertical_framed_glass",
+        "create:vertical_framed_glass",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:warped_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "minecraft:warped_planks",
+        "nil",
+        "minecraft:warped_planks",
+        "create:tiled_glass",
+        "minecraft:warped_planks",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:warped_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:warped_window",
+        "create:warped_window",
+        "create:warped_window",
+        "create:warped_window",
+        "create:warped_window",
+        "create:warped_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:weathered_copper_shingle_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:weathered_copper_shingles",
+        "create:weathered_copper_shingles",
+        "create:weathered_copper_shingles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:weathered_copper_shingle_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:weathered_copper_shingles",
+        "nil",
+        "nil",
+        "create:weathered_copper_shingles",
+        "create:weathered_copper_shingles",
+        "nil",
+        "create:weathered_copper_shingles",
+        "create:weathered_copper_shingles",
+        "create:weathered_copper_shingles"
+      ],
+      "imported": true
+    },
+    "create:weathered_copper_tile_slab": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 6,
+      "ingredients": [
+        "nil",
+        "nil",
+        "nil",
+        "create:weathered_copper_tiles",
+        "create:weathered_copper_tiles",
+        "create:weathered_copper_tiles",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:weathered_copper_tile_stairs": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 4,
+      "ingredients": [
+        "create:weathered_copper_tiles",
+        "nil",
+        "nil",
+        "create:weathered_copper_tiles",
+        "create:weathered_copper_tiles",
+        "nil",
+        "create:weathered_copper_tiles",
+        "create:weathered_copper_tiles",
+        "create:weathered_copper_tiles"
+      ],
+      "imported": true
+    },
+    "create:weathered_iron_window": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 2,
+      "ingredients": [
+        "nil",
+        "create:weathered_iron_block",
+        "nil",
+        "create:weathered_iron_block",
+        "create:tiled_glass",
+        "create:weathered_iron_block",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    },
+    "create:weathered_iron_window_pane": {
+      "machine_name": "turtle_1",
+      "type": "turtle",
+      "method": "turtle",
+      "output_count": 16,
+      "ingredients": [
+        "create:weathered_iron_window",
+        "create:weathered_iron_window",
+        "create:weathered_iron_window",
+        "create:weathered_iron_window",
+        "create:weathered_iron_window",
+        "create:weathered_iron_window",
+        "nil",
+        "nil",
+        "nil"
+      ],
+      "imported": true
+    }
+  },
+  "fluid_alt_recipes": {},
+  "machine_labels": {}
+}
